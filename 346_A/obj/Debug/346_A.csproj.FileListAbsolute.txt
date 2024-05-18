@@ -1,0 +1,7 @@
+C:\Users\dcs7c\Desktop\競技プログラミング\AtCoder\346_A\bin\Debug\346_A.exe.config
+C:\Users\dcs7c\Desktop\競技プログラミング\AtCoder\346_A\bin\Debug\346_A.exe
+C:\Users\dcs7c\Desktop\競技プログラミング\AtCoder\346_A\bin\Debug\346_A.pdb
+C:\Users\dcs7c\Desktop\競技プログラミング\AtCoder\346_A\obj\Debug\346_A.csproj.AssemblyReference.cache
+C:\Users\dcs7c\Desktop\競技プログラミング\AtCoder\346_A\obj\Debug\346_A.csproj.CoreCompileInputs.cache
+C:\Users\dcs7c\Desktop\競技プログラミング\AtCoder\346_A\obj\Debug\346_A.exe
+C:\Users\dcs7c\Desktop\競技プログラミング\AtCoder\346_A\obj\Debug\346_A.pdb

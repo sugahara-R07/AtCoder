@@ -1,0 +1,7 @@
+C:\Users\dcs7c\Desktop\競技プログラミング\AtCoder\349_A\bin\Debug\349_A.exe.config
+C:\Users\dcs7c\Desktop\競技プログラミング\AtCoder\349_A\bin\Debug\349_A.exe
+C:\Users\dcs7c\Desktop\競技プログラミング\AtCoder\349_A\bin\Debug\349_A.pdb
+C:\Users\dcs7c\Desktop\競技プログラミング\AtCoder\349_A\obj\Debug\349_A.csproj.AssemblyReference.cache
+C:\Users\dcs7c\Desktop\競技プログラミング\AtCoder\349_A\obj\Debug\349_A.csproj.CoreCompileInputs.cache
+C:\Users\dcs7c\Desktop\競技プログラミング\AtCoder\349_A\obj\Debug\349_A.exe
+C:\Users\dcs7c\Desktop\競技プログラミング\AtCoder\349_A\obj\Debug\349_A.pdb

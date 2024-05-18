@@ -1,0 +1,7 @@
+C:\Users\dcs7c\Desktop\競技プログラミング\AtCoder\352_A\bin\Debug\352_A.exe.config
+C:\Users\dcs7c\Desktop\競技プログラミング\AtCoder\352_A\bin\Debug\352_A.exe
+C:\Users\dcs7c\Desktop\競技プログラミング\AtCoder\352_A\bin\Debug\352_A.pdb
+C:\Users\dcs7c\Desktop\競技プログラミング\AtCoder\352_A\obj\Debug\352_A.csproj.AssemblyReference.cache
+C:\Users\dcs7c\Desktop\競技プログラミング\AtCoder\352_A\obj\Debug\352_A.csproj.CoreCompileInputs.cache
+C:\Users\dcs7c\Desktop\競技プログラミング\AtCoder\352_A\obj\Debug\352_A.exe
+C:\Users\dcs7c\Desktop\競技プログラミング\AtCoder\352_A\obj\Debug\352_A.pdb

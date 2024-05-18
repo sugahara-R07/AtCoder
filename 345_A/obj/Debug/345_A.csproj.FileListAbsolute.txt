@@ -1,0 +1,7 @@
+C:\Users\dcs7c\Desktop\競技プログラミング\AtCoder\345_A\bin\Debug\345_A.exe.config
+C:\Users\dcs7c\Desktop\競技プログラミング\AtCoder\345_A\bin\Debug\345_A.exe
+C:\Users\dcs7c\Desktop\競技プログラミング\AtCoder\345_A\bin\Debug\345_A.pdb
+C:\Users\dcs7c\Desktop\競技プログラミング\AtCoder\345_A\obj\Debug\345_A.csproj.AssemblyReference.cache
+C:\Users\dcs7c\Desktop\競技プログラミング\AtCoder\345_A\obj\Debug\345_A.csproj.CoreCompileInputs.cache
+C:\Users\dcs7c\Desktop\競技プログラミング\AtCoder\345_A\obj\Debug\345_A.exe
+C:\Users\dcs7c\Desktop\競技プログラミング\AtCoder\345_A\obj\Debug\345_A.pdb
