@@ -1,0 +1,8 @@
+C:\Users\sryot\Desktop\競技プログラミング\AtCoder\342_A\bin\Debug\342_A.exe.config
+C:\Users\sryot\Desktop\競技プログラミング\AtCoder\342_A\bin\Debug\342_A.exe
+C:\Users\sryot\Desktop\競技プログラミング\AtCoder\342_A\bin\Debug\342_A.pdb
+C:\Users\sryot\Desktop\競技プログラミング\AtCoder\342_A\obj\Debug\342_A.csproj.AssemblyReference.cache
+C:\Users\sryot\Desktop\競技プログラミング\AtCoder\342_A\obj\Debug\342_A.csproj.SuggestedBindingRedirects.cache
+C:\Users\sryot\Desktop\競技プログラミング\AtCoder\342_A\obj\Debug\342_A.csproj.CoreCompileInputs.cache
+C:\Users\sryot\Desktop\競技プログラミング\AtCoder\342_A\obj\Debug\342_A.exe
+C:\Users\sryot\Desktop\競技プログラミング\AtCoder\342_A\obj\Debug\342_A.pdb

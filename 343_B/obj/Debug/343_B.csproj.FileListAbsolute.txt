@@ -1,0 +1,8 @@
+C:\Users\sryot\Desktop\競技プログラミング\AtCoder\343_B\bin\Debug\343_B.exe.config
+C:\Users\sryot\Desktop\競技プログラミング\AtCoder\343_B\bin\Debug\343_B.exe
+C:\Users\sryot\Desktop\競技プログラミング\AtCoder\343_B\bin\Debug\343_B.pdb
+C:\Users\sryot\Desktop\競技プログラミング\AtCoder\343_B\obj\Debug\343_B.csproj.AssemblyReference.cache
+C:\Users\sryot\Desktop\競技プログラミング\AtCoder\343_B\obj\Debug\343_B.csproj.SuggestedBindingRedirects.cache
+C:\Users\sryot\Desktop\競技プログラミング\AtCoder\343_B\obj\Debug\343_B.csproj.CoreCompileInputs.cache
+C:\Users\sryot\Desktop\競技プログラミング\AtCoder\343_B\obj\Debug\343_B.exe
+C:\Users\sryot\Desktop\競技プログラミング\AtCoder\343_B\obj\Debug\343_B.pdb
