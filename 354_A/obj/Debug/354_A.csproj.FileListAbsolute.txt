@@ -6,3 +6,10 @@ C:\Users\sryot\Desktop\競技プログラミング\AtCoder\354_A\obj\Debug\354_A
 C:\Users\sryot\Desktop\競技プログラミング\AtCoder\354_A\obj\Debug\354_A.csproj.CoreCompileInputs.cache
 C:\Users\sryot\Desktop\競技プログラミング\AtCoder\354_A\obj\Debug\354_A.exe
 C:\Users\sryot\Desktop\競技プログラミング\AtCoder\354_A\obj\Debug\354_A.pdb
+C:\Users\dcs7c\Desktop\競技プログラミング\AtCoder\354_A\bin\Debug\354_A.exe.config
+C:\Users\dcs7c\Desktop\競技プログラミング\AtCoder\354_A\bin\Debug\354_A.exe
+C:\Users\dcs7c\Desktop\競技プログラミング\AtCoder\354_A\bin\Debug\354_A.pdb
+C:\Users\dcs7c\Desktop\競技プログラミング\AtCoder\354_A\obj\Debug\354_A.csproj.AssemblyReference.cache
+C:\Users\dcs7c\Desktop\競技プログラミング\AtCoder\354_A\obj\Debug\354_A.csproj.CoreCompileInputs.cache
+C:\Users\dcs7c\Desktop\競技プログラミング\AtCoder\354_A\obj\Debug\354_A.exe
+C:\Users\dcs7c\Desktop\競技プログラミング\AtCoder\354_A\obj\Debug\354_A.pdb
