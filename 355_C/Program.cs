@@ -38,14 +38,14 @@ namespace _355_C
                 //ビンゴの穴を空ける
                 ans[i, j] = 1;
 
-                //穴の数がN以下なら次のループへ
+                //穴の数がN以下なら次のターンへ
                 if (counter < N-1)
                 {
                     counter++;
                     continue;
                 }
 
-                //穴が空いた場所の縦、横 + 斜め一列が空いている状態か確認
+                //穴が空いた場所の縦、横 + 斜め１列が空いている状態か確認
                 if (Check(ans, N, i, j))
                 {
                     Console.WriteLine(counter + 1);
@@ -71,7 +71,7 @@ namespace _355_C
 
             for (int i = 0; i<N; i++)
             {
-                //すべての列で空いていない項目があれば確認終了
+                //すべての列で空いていないマスがあれば確認終了
                 if(!bingo && !bingo2 && !bingo3 && !bingo4)
                     return false;
 
