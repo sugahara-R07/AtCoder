@@ -1,0 +1,8 @@
+C:\Users\sryot\Desktop\競技プログラミング\AtCoder\355_C\bin\Debug\355_C.exe.config
+C:\Users\sryot\Desktop\競技プログラミング\AtCoder\355_C\bin\Debug\355_C.exe
+C:\Users\sryot\Desktop\競技プログラミング\AtCoder\355_C\bin\Debug\355_C.pdb
+C:\Users\sryot\Desktop\競技プログラミング\AtCoder\355_C\obj\Debug\355_C.csproj.SuggestedBindingRedirects.cache
+C:\Users\sryot\Desktop\競技プログラミング\AtCoder\355_C\obj\Debug\355_C.csproj.CoreCompileInputs.cache
+C:\Users\sryot\Desktop\競技プログラミング\AtCoder\355_C\obj\Debug\355_C.exe
+C:\Users\sryot\Desktop\競技プログラミング\AtCoder\355_C\obj\Debug\355_C.pdb
+C:\Users\sryot\Desktop\競技プログラミング\AtCoder\355_C\obj\Debug\355_C.csproj.AssemblyReference.cache

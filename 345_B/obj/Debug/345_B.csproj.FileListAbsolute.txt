@@ -1,0 +1,7 @@
+C:\Users\sryot\Desktop\競技プログラミング\AtCoder\345_B\bin\Debug\345_B.exe.config
+C:\Users\sryot\Desktop\競技プログラミング\AtCoder\345_B\bin\Debug\345_B.exe
+C:\Users\sryot\Desktop\競技プログラミング\AtCoder\345_B\bin\Debug\345_B.pdb
+C:\Users\sryot\Desktop\競技プログラミング\AtCoder\345_B\obj\Debug\345_B.csproj.SuggestedBindingRedirects.cache
+C:\Users\sryot\Desktop\競技プログラミング\AtCoder\345_B\obj\Debug\345_B.csproj.CoreCompileInputs.cache
+C:\Users\sryot\Desktop\競技プログラミング\AtCoder\345_B\obj\Debug\345_B.exe
+C:\Users\sryot\Desktop\競技プログラミング\AtCoder\345_B\obj\Debug\345_B.pdb

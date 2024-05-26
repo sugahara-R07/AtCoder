@@ -1,0 +1,7 @@
+C:\Users\sryot\Desktop\競技プログラミング\AtCoder\332_A\bin\Debug\332_A.exe.config
+C:\Users\sryot\Desktop\競技プログラミング\AtCoder\332_A\bin\Debug\332_A.exe
+C:\Users\sryot\Desktop\競技プログラミング\AtCoder\332_A\bin\Debug\332_A.pdb
+C:\Users\sryot\Desktop\競技プログラミング\AtCoder\332_A\obj\Debug\332_A.csproj.SuggestedBindingRedirects.cache
+C:\Users\sryot\Desktop\競技プログラミング\AtCoder\332_A\obj\Debug\332_A.csproj.CoreCompileInputs.cache
+C:\Users\sryot\Desktop\競技プログラミング\AtCoder\332_A\obj\Debug\332_A.exe
+C:\Users\sryot\Desktop\競技プログラミング\AtCoder\332_A\obj\Debug\332_A.pdb
