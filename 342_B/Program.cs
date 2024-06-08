@@ -10,6 +10,7 @@ namespace _342_B
     {
         static void Main(string[] args)
         {
+
         }
     }
 }
