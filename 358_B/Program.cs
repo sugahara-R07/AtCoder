@@ -15,9 +15,12 @@ namespace _358_B
             int A = NA[1];
             int[] T = Console.ReadLine().Split(' ').Select(int.Parse).ToArray();
 
+            //一回目
             int second = T[0];
             second += A;
             Console.WriteLine(second);
+
+            //その後の処理
             for (int i = 1; i< N; i++)
             {
                 if(second >= T[i])
@@ -32,10 +35,6 @@ namespace _358_B
                     continue;
                 }
             }
-
-            //Console.WriteLine(second);
-            Console.ReadLine();
-
         }
     }
 }
