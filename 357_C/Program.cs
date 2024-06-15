@@ -101,7 +101,6 @@ namespace _357_C
                 for (int j = 0; j < Math.Pow(3, N); j++)
                 {
                     Console.Write(masu[j, i]);
-
                 }
                 Console.WriteLine();
             }

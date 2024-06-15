@@ -190,7 +190,22 @@
       "ProjectGuid": "e0c05c3f-99e5-4120-90db-4b0635c966bf",
       "DisplayName": "357_C",
       "ColorIndex": 5
+    },
+    "b7378200-6050-47da-8bb9-b66982818873": {
+      "ProjectGuid": "b7378200-6050-47da-8bb9-b66982818873",
+      "DisplayName": "358_A",
+      "ColorIndex": 6
+    },
+    "e908bc60-fd70-4d76-93c2-4ada8e5ca7be": {
+      "ProjectGuid": "e908bc60-fd70-4d76-93c2-4ada8e5ca7be",
+      "DisplayName": "358_B",
+      "ColorIndex": 7
+    },
+    "4b5a09f2-d632-4322-a6b5-7e9368df92bb": {
+      "ProjectGuid": "4b5a09f2-d632-4322-a6b5-7e9368df92bb",
+      "DisplayName": "358_C",
+      "ColorIndex": 8
     }
   },
-  "NextColorIndex": 6
+  "NextColorIndex": 9
 }

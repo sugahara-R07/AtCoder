@@ -11,14 +11,15 @@ namespace _357_A
         static void Main(string[] args)
         {
             int[] NM = Console.ReadLine().Split(' ').Select(int.Parse).ToArray();
-            int N = NM[0];
-            int M = NM[1];
+            int N = NM[0];//人数
+            int M = NM[1];//洗える手の本数
 
+            //各宇宙人の手の本数
             int[] nums = Console.ReadLine().Split(' ').Select(int.Parse).ToArray();
 
-            int ans = 0;
+            int ans = 0;//ｎ
 
-            for(int i = 0; i<N;i++)
+            for(int i = 0; i< N ;i++)
             {
                 if(ans + nums[i] <= M)
                 {

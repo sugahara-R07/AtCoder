@@ -1,0 +1,8 @@
+C:\Users\sryot\Desktop\競技プログラミング\AtCoder\358_B\bin\Debug\358_B.exe.config
+C:\Users\sryot\Desktop\競技プログラミング\AtCoder\358_B\bin\Debug\358_B.exe
+C:\Users\sryot\Desktop\競技プログラミング\AtCoder\358_B\bin\Debug\358_B.pdb
+C:\Users\sryot\Desktop\競技プログラミング\AtCoder\358_B\obj\Debug\358_B.csproj.AssemblyReference.cache
+C:\Users\sryot\Desktop\競技プログラミング\AtCoder\358_B\obj\Debug\358_B.csproj.SuggestedBindingRedirects.cache
+C:\Users\sryot\Desktop\競技プログラミング\AtCoder\358_B\obj\Debug\358_B.csproj.CoreCompileInputs.cache
+C:\Users\sryot\Desktop\競技プログラミング\AtCoder\358_B\obj\Debug\358_B.exe
+C:\Users\sryot\Desktop\競技プログラミング\AtCoder\358_B\obj\Debug\358_B.pdb
