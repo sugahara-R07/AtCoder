@@ -135,7 +135,77 @@
       "ProjectGuid": "7002719e-1d37-4492-8b5a-78ba50f56030",
       "DisplayName": "355_C",
       "ColorIndex": 10
+    },
+    "f8e0e6de-c055-4c9f-9558-9ca180143fe2": {
+      "ProjectGuid": "f8e0e6de-c055-4c9f-9558-9ca180143fe2",
+      "DisplayName": "342_B",
+      "ColorIndex": 11
+    },
+    "018d2af8-187c-4b0c-a382-5889f56c4b79": {
+      "ProjectGuid": "018d2af8-187c-4b0c-a382-5889f56c4b79",
+      "DisplayName": "327_A",
+      "ColorIndex": 12
+    },
+    "67228661-15e7-4d66-a1f0-d57fb880972f": {
+      "ProjectGuid": "67228661-15e7-4d66-a1f0-d57fb880972f",
+      "DisplayName": "349_C",
+      "ColorIndex": 13
+    },
+    "993ca0d7-74f3-426d-bcc6-ec44dad625f9": {
+      "ProjectGuid": "993ca0d7-74f3-426d-bcc6-ec44dad625f9",
+      "DisplayName": "328_A",
+      "ColorIndex": 14
+    },
+    "b6cdf106-92e9-4aad-8f3c-672258809f68": {
+      "ProjectGuid": "b6cdf106-92e9-4aad-8f3c-672258809f68",
+      "DisplayName": "329_A",
+      "ColorIndex": 15
+    },
+    "e1b3a554-2add-4028-bf6f-92ca038c98be": {
+      "ProjectGuid": "e1b3a554-2add-4028-bf6f-92ca038c98be",
+      "DisplayName": "330_A",
+      "ColorIndex": 0
+    },
+    "a2f1f470-2a2f-4e2e-a1ee-1ccd0f6dfcd8": {
+      "ProjectGuid": "a2f1f470-2a2f-4e2e-a1ee-1ccd0f6dfcd8",
+      "DisplayName": "346_C",
+      "ColorIndex": 1
+    },
+    "80dac83b-6137-4f01-893d-1dd8f3b2f1f4": {
+      "ProjectGuid": "80dac83b-6137-4f01-893d-1dd8f3b2f1f4",
+      "DisplayName": "356_A",
+      "ColorIndex": 2
+    },
+    "66eaa1ba-e04a-4365-bdf7-f1b88a3e87ec": {
+      "ProjectGuid": "66eaa1ba-e04a-4365-bdf7-f1b88a3e87ec",
+      "DisplayName": "357_A",
+      "ColorIndex": 3
+    },
+    "685dcf18-ce15-4cce-9438-9422fe5e592a": {
+      "ProjectGuid": "685dcf18-ce15-4cce-9438-9422fe5e592a",
+      "DisplayName": "357_B",
+      "ColorIndex": 4
+    },
+    "e0c05c3f-99e5-4120-90db-4b0635c966bf": {
+      "ProjectGuid": "e0c05c3f-99e5-4120-90db-4b0635c966bf",
+      "DisplayName": "357_C",
+      "ColorIndex": 5
+    },
+    "b7378200-6050-47da-8bb9-b66982818873": {
+      "ProjectGuid": "b7378200-6050-47da-8bb9-b66982818873",
+      "DisplayName": "358_A",
+      "ColorIndex": 6
+    },
+    "e908bc60-fd70-4d76-93c2-4ada8e5ca7be": {
+      "ProjectGuid": "e908bc60-fd70-4d76-93c2-4ada8e5ca7be",
+      "DisplayName": "358_B",
+      "ColorIndex": 7
+    },
+    "4b5a09f2-d632-4322-a6b5-7e9368df92bb": {
+      "ProjectGuid": "4b5a09f2-d632-4322-a6b5-7e9368df92bb",
+      "DisplayName": "358_C",
+      "ColorIndex": 8
     }
   },
-  "NextColorIndex": 11
+  "NextColorIndex": 9
 }
