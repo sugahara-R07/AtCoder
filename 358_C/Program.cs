@@ -1,6 +1,8 @@
-﻿using System;
+﻿using Microsoft.SqlServer.Server;
+using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Runtime.InteropServices;
 using System.Text;
 using System.Threading.Tasks;
 
@@ -10,110 +12,76 @@ namespace _358_C
     {
         public class Popcorn
         {
-            public int shops;
+            public uint shops = 0;
             public bool flag = true;
             public int num = 0;
 
-            public int pool = 0;
-            string str = "";
-
-            public Popcorn(int shops, int[] S, int M)
+            public Popcorn(uint shops, int[] S, int M,int N)
             {
-                this.shops = shops;
-                pool = shops;
-                
-
                 for (int i = 0; i < S.Length; i++)
-                {
-                   
-                    if (IsOn(shops, i+1))
+                {             
+                    if (IsOn((int)shops, i+1))
                     {
-                        this.shops = this.shops | S[i];
-                        num++;
-                    }
-                    
+                        this.shops = this.shops | (uint)S[i];                  
+                    }           
                 }
 
-                for(int i = 0; i< M;i++)
+                for(int i = 0; i < M; i++)
                 {
-                    str += "1";
-                }
-
-                for(int i = 0;i<M;i++)
-                {
-                    if (!IsOn(this.shops, i + 1))
-                    {
+                    if (!IsOn((int)this.shops, i + 1))
+                    {                  
                         flag = false;
                     }
                 }
 
-                if(flag)
+                for(int i = 0;i<N;i++)
                 {
-                    Console.WriteLine(str);
+                    if (IsOn((int)shops, i + 1))
+                    {
+                        num++;
+                    }
                 }
-
             }
 
             public bool GetFlag()
             { return flag; }
             public int GetNum()
-            {
-                return num;
-
-
-
-            }
+            { return num; }
         }
 
         static void Main(string[] args)
         {
-
+            //フィールド
             int[] NM = Console.ReadLine().Split(' ').Select(int.Parse).ToArray();
             int N = NM[0];
             int M = NM[1];
 
             int[] S = new int[N];
+            string strN = "";//ビットの最大保存用
 
+            Int32 strBit = 0;//ビット全探索用のカウント
+            int ansNum = 999999999;//最低回数保存用(最初は最大数)
+
+            //計算
             for (int i = 0; i < N; i++)
             {
                 S[i] = Convert.ToInt32(Console.ReadLine().Replace('o', '1').Replace('x', '0'), 2);
-            }
-
-            string strN = "";
-
-            for (int i = 0; i < N; i++)
-            {
                 strN += "1";
             }
-
-
-            List<Popcorn> list = new List<Popcorn>();
-
-            Int32 strBit = 0;
 
             for (int i = 0; i <= Convert.ToInt32(strN, 2); i++)
             {
                 strBit++;
-                Popcorn popcorn = new Popcorn(strBit, S, M);
-                list.Add(popcorn);
-            }
-
-            List<int> ans = new List<int>();
-
-            for (int i = 0; i < list.Count; i++)
-            {
-                if (list[i].GetFlag())
+                Popcorn popcorn = new Popcorn((uint)strBit, S, M,N);
+                if (popcorn.GetFlag())
                 {
-                    ans.Add(list[i].GetNum());
+                    if (ansNum > popcorn.GetNum())
+                        ansNum = popcorn.GetNum();
                 }
-                    
             }
 
-            ans.Sort();
-
-            Console.WriteLine(ans[0]);
-            Console.ReadLine();
-
+            //回答
+            Console.WriteLine(ansNum);
         }
 
         public static bool IsOn(int data, int digit)
@@ -131,9 +99,5 @@ namespace _358_C
 
             return isOn;
         }
-
-
-
     }
-
 }
