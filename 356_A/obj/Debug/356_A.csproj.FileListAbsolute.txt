@@ -6,3 +6,10 @@ C:\Users\sryot\Desktop\競技プログラミング\AtCoder\356_A\obj\Debug\356_A
 C:\Users\sryot\Desktop\競技プログラミング\AtCoder\356_A\obj\Debug\356_A.csproj.CoreCompileInputs.cache
 C:\Users\sryot\Desktop\競技プログラミング\AtCoder\356_A\obj\Debug\356_A.exe
 C:\Users\sryot\Desktop\競技プログラミング\AtCoder\356_A\obj\Debug\356_A.pdb
+C:\Users\dcs7c\Desktop\競技プログラミング\AtCoder\356_A\bin\Debug\356_A.exe.config
+C:\Users\dcs7c\Desktop\競技プログラミング\AtCoder\356_A\bin\Debug\356_A.exe
+C:\Users\dcs7c\Desktop\競技プログラミング\AtCoder\356_A\bin\Debug\356_A.pdb
+C:\Users\dcs7c\Desktop\競技プログラミング\AtCoder\356_A\obj\Debug\356_A.csproj.AssemblyReference.cache
+C:\Users\dcs7c\Desktop\競技プログラミング\AtCoder\356_A\obj\Debug\356_A.csproj.CoreCompileInputs.cache
+C:\Users\dcs7c\Desktop\競技プログラミング\AtCoder\356_A\obj\Debug\356_A.exe
+C:\Users\dcs7c\Desktop\競技プログラミング\AtCoder\356_A\obj\Debug\356_A.pdb

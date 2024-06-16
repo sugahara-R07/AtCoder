@@ -11,74 +11,58 @@ namespace _356_A
         static void Main(string[] args)
         {
             int[] NLR = Console.ReadLine().Split(' ').Select(int.Parse).ToArray();
+
+            int[] nums = new int[NLR[0]];
+
             int N = NLR[0];
             int L = NLR[1];
             int R = NLR[2];
+            int pool = 0;
 
-            int[] nums = new int[N];
-
-            for(int i = 0; i<N;i++)
+            //Rの法が大きい用に修正
+            if(R < L)
             {
-                nums[i] = i+1;
+                pool = R;
+                R = L;
+                L = pool;
             }
 
-            bool fl = false;
-
-            int T = Math.Abs(R-L)/2;
-
-            int num = L - R;
-
-            if(num<0)
+            //配列を格納
+            for(int i = 0; i< N; i++ )
             {
-                
-                for (int i = 0; i < T; i++)
-                {
-                    int pool = nums[R - 1 - i];
-                    nums[R - 1 - i] = nums[L - 1 + i];
-                    nums[L - 1 + i] = pool;
-                    fl = true;
-                }
-
-                if (T == 0 && !fl)
-                {
-                    int pool = nums[R - 1];
-                    nums[R - 1] = nums[L - 1];
-                    nums[L - 1] = pool;
-                }
+                nums[i] = i + 1;
             }
-            
-            else
+
+            int j = R -1;
+            int i1 = L - 1;
+
+            int num = (R - L +1)/2;
+
+            for (int x = 0; x<num  ;x++)
             {
-                for (int i = 0; i < T; i++)
-                {
-                    int pool = nums[R - 1 + i];
-                    nums[R - 1 + i] = nums[L - 1 - i];
-                    nums[L - 1 - i] = pool;
-                }
+                pool = nums[i1];
+                nums[i1] = nums[j];
+                nums[j] = pool;
 
-                if (T == 0 && !fl)
-                {
-                    int pool = nums[R - 1];
-                    nums[R - 1] = nums[L - 1];
-                    nums[L - 1] = pool;
-                }
+                j--;
+                i1++;
             }
-            
 
-            
 
-            for(int i = 0; i<N;i++)
+            for(int i = 0;i<N;i++)
             {
                 Console.Write(nums[i]);
-                if(i<N-1)
+
+                if(i != N-1)
                 {
                     Console.Write(" ");
                 }
+                else
+                {
+                    Console.WriteLine( );
+                }
             }
-
             Console.ReadLine();
-            
-
         }
     }
 }
