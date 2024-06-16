@@ -1,0 +1,8 @@
+C:\Users\sryot\Desktop\競技プログラミング\AtCoder\BitTest\bin\Debug\BitTest.exe.config
+C:\Users\sryot\Desktop\競技プログラミング\AtCoder\BitTest\bin\Debug\BitTest.exe
+C:\Users\sryot\Desktop\競技プログラミング\AtCoder\BitTest\bin\Debug\BitTest.pdb
+C:\Users\sryot\Desktop\競技プログラミング\AtCoder\BitTest\obj\Debug\BitTest.csproj.AssemblyReference.cache
+C:\Users\sryot\Desktop\競技プログラミング\AtCoder\BitTest\obj\Debug\BitTest.csproj.SuggestedBindingRedirects.cache
+C:\Users\sryot\Desktop\競技プログラミング\AtCoder\BitTest\obj\Debug\BitTest.csproj.CoreCompileInputs.cache
+C:\Users\sryot\Desktop\競技プログラミング\AtCoder\BitTest\obj\Debug\BitTest.exe
+C:\Users\sryot\Desktop\競技プログラミング\AtCoder\BitTest\obj\Debug\BitTest.pdb

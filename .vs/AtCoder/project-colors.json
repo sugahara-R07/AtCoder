@@ -205,7 +205,12 @@
       "ProjectGuid": "4b5a09f2-d632-4322-a6b5-7e9368df92bb",
       "DisplayName": "358_C",
       "ColorIndex": 8
+    },
+    "457ec9dd-8e8e-4bbd-b704-39efcec08f6a": {
+      "ProjectGuid": "457ec9dd-8e8e-4bbd-b704-39efcec08f6a",
+      "DisplayName": "BitTest",
+      "ColorIndex": 9
     }
   },
-  "NextColorIndex": 9
+  "NextColorIndex": 10
 }
