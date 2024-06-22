@@ -1,0 +1,7 @@
+C:\Users\sryot\Desktop\競技プログラミング\AtCoder\359_A\bin\Debug\359_A.exe.config
+C:\Users\sryot\Desktop\競技プログラミング\AtCoder\359_A\bin\Debug\359_A.exe
+C:\Users\sryot\Desktop\競技プログラミング\AtCoder\359_A\bin\Debug\359_A.pdb
+C:\Users\sryot\Desktop\競技プログラミング\AtCoder\359_A\obj\Debug\359_A.csproj.SuggestedBindingRedirects.cache
+C:\Users\sryot\Desktop\競技プログラミング\AtCoder\359_A\obj\Debug\359_A.csproj.CoreCompileInputs.cache
+C:\Users\sryot\Desktop\競技プログラミング\AtCoder\359_A\obj\Debug\359_A.exe
+C:\Users\sryot\Desktop\競技プログラミング\AtCoder\359_A\obj\Debug\359_A.pdb
