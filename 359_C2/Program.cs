@@ -10,105 +10,49 @@ namespace _359_C2
     {
         static void Main(string[] args)
         {
+
+            //18,19,20のテストケースが抜けない
             long[] S = Console.ReadLine().Split(' ').Select(long.Parse).ToArray();
             long[] T = Console.ReadLine().Split(' ').Select(long.Parse).ToArray();
 
-            long y = (S[1] - T[1])* (- 1);
-            if(y<0)
+
+
+
+            long y = (S[1] - T[1]) * (-1);
+            if (y < 0)
             {
                 y = y * (-1);
             }
 
             long x = (S[0] - T[0]) * (-1);
 
-            bool check = false;
+
             if (x < 0)
             {
                 x = x * (-1);
-                check = true;
             }
 
-            long puls = 0;
 
-            if(S[0] % 2 == 1)
-            {
-                if (S[0] > T[0])
-                {
-                    puls++;
-                }
-               
-            }
-            else
-            {
-                if (S[0] < T[0])
-                {
-                    puls++;
-                }
-            }
 
-            if(y >= x+puls)
+            if (y > x + 1)
             {
                 Console.WriteLine(y);
                 return;
             }
 
+            long ans = y + ((x - y) / 2);
 
-            if(y < x + puls)
+            if (T[0] % 2 == 0 && (S[1] * -1) % 2 == 1)
             {
-                if (S[0] > T[0])
-                {
-                    if(check)
-                    {
-                        Console.WriteLine(y + ((x - y) / 2) +1);
-                    }
-                    else
-                    {
-                        Console.WriteLine(y + ((x - y) / 2));
-                    }
-                   
-                    
-                    return;
-
-                }
-                else
-                {
-                    long a = S[0] - T[0];
-                    a = a * -1;
-                    if (S[0] % 2 == 1 && a < 2)
-                    {
-                        
-                        if (check)
-                        {
-                            Console.WriteLine(y + ((x - y) / 2));
-                        }
-                        else
-                        {
-                            Console.WriteLine(y + ((x - y) / 2) +1 );
-                        }
-                    }
-                    else
-                    {
-                        if (check)
-                        {
-                            Console.WriteLine(y + ((x - y) / 2) +1);
-                        }
-                        else
-                        {
-                            Console.WriteLine(y + ((x - y) / 2));
-                        }
-                        
-                    }
-                    
-                    return;
-
-                }
+                ans++;
             }
 
-            
 
-
-
+            Console.WriteLine(ans);
+            return;
 
         }
+
+
     }
 }
